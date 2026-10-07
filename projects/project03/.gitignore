@@ -1,0 +1,6 @@
+__pychache__/
+data/
+figures/
+motif_ops.py
+seq_ops.py
+data_readers.py
