@@ -28,7 +28,9 @@ I think this project was an overall success. Our group was able to work together
 
 Future Directions: If we had more time to work on this code, one of the things I would have liked to do would be to make more functions, so that our main `GibbsMotifFinder()` wasn't so crowded. For example, having a helper function `init_motifs()` for initializing motifs at each sequence, and `check_convergence()` for finding if we have reached convergence during our iterations.
 
-**Other Members:**
+**Other Members: Justin Gubbens**
+
+Overall, I feel that we did a good job helping each other understand the Gibbs sampling approach and working together to design a successful implementation of it. Our workflow was efficient and organized, and we made sure that we were always on the same page regarding the project. Conceptually, we took a bit of time to understand how to implement reverse strands into the GibbsMotifFinder method and understand how it would work with our initial design. With some effort and guidance from the extra posted video on Canvas, we were able to implement this in a logical way. Overall, I think we were successful in this project and learned a lot from doing it.
 
 **Other Members:**
 
